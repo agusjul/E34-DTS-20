@@ -3,6 +3,16 @@
 .top-wrapper h1 {
  font-size: 32px;
   }
+
+main{
+  width: 100%;
+  height: auto;
+}
+
+.konten-news {
+  display: inline-block;
+  margin: auto;
+}
   
 .heading h3 {
  font-size: 20px;
@@ -37,4 +47,15 @@
     line-height: 20px;
     text-align: left;
   }
-}
+
+
+  .program-list {
+    float: left;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 100px;
+  }
+
+
+
